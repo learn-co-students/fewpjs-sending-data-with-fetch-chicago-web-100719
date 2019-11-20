@@ -1,5 +1,6 @@
 {
-  "dogs": [{
+  "dogs": [
+    {
       "dogName": "Luca",
       "dogBreed": "German Shepherd",
       "id": 1
@@ -8,9 +9,22 @@
       "dogName": "Lola",
       "dogBreed": "Giant Schnauzer",
       "id": 2
+    },
+    {
+      "dogName": "Omar",
+      "dogBreed": "Corgi",
+      "submit": "Submit",
+      "id": 3
+    },
+    {
+      "dogName": "Buster",
+      "dogBreed": "Dachsund",
+      "submit": "Submit",
+      "id": 4
     }
   ],
-  "cats": [{
+  "cats": [
+    {
       "catName": "Stanley",
       "catBreed": "Tabby",
       "id": 1
@@ -21,10 +35,62 @@
       "id": 2
     }
   ],
-  "users": [],
-  "robots": [{
-    "robotName": "C8-09S100K",
-    "robotType": "Human Assistant",
-    "id": 9000
-  }]
+  "users": [
+    {
+      "name": "ben",
+      "email": "ben.com",
+      "id": 1
+    },
+    {
+      "name": "dan",
+      "email": "dan.com",
+      "id": 2
+    },
+    {
+      "name": "brian",
+      "email": "brian.com",
+      "id": 3
+    },
+    {
+      "name": "kyle",
+      "email": "kyle.com",
+      "id": 4
+    },
+    {
+      "name": "dave",
+      "email": "dave.com",
+      "id": 5
+    },
+    {
+      "name": "mark",
+      "email": "mark.com",
+      "id": 6
+    },
+    {
+      "name": "matt",
+      "email": "matt.com",
+      "id": 7
+    },
+    {
+      "name": "klyde",
+      "email": "whta.com",
+      "id": 8
+    },
+    {
+      "name": "gor",
+      "email": "gor.com",
+      "id": 9
+    },
+    {
+      "name": "barf",
+      "id": 10
+    }
+  ],
+  "robots": [
+    {
+      "robotName": "C8-09S100K",
+      "robotType": "Human Assistant",
+      "id": 9000
+    }
+  ]
 }
